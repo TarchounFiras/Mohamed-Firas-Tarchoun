@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Firas Tarchoun</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate software developer and computer science student</h3>
 
 - 🌱 I’m currently learning **FastAPI and React**
 
